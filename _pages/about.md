@@ -46,8 +46,16 @@ I mainly work on AI acceleration.
 
 ## 2024
 
-----
+- GNeRF: Accelerating Neural Radiance Fields Inference via Adaptive Sample Gating\
+C Gu, G Li, **X Lin**, J Ling, X Liang\
+2024 IEEE International Symposium on Circuits and Systems (ISCAS)
+
 ## 2023
+
+- AdaS: A Fast and Energy-Efficient CNN Accelerator Exploiting Bit-Sparsity\
+**X Lin**, G Li, Z Liu, Y Liu, F Zhang, Z Song, N Jing, X Liang\
+2023 60th ACM/IEEE Design Automation Conference (DAC)
+
 
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
