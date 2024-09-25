@@ -20,7 +20,7 @@ redirect_from:
 
 I am a Ph.D. student studying computer architecture in Shanghai Jiao Tong University.
 
-My research interests mainly focus on AI acceleration, Domain Specific Architecture.
+My research interests mainly focus on AI acceleration, Domain Specific Architecture, Software/Hardware Co-design, ML System.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -45,16 +45,19 @@ My research interests mainly focus on AI acceleration, Domain Specific Architect
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 ## 2024
+- [C3] WIFA: A Weight Importance- and Frequency-aware Accelerator for SNN. Accepted by IEEE International Conference on Computer Design\
+X Zhang, Z Song, P Zhou, X Li, X Liu, **X Lin**, Z He, L Jiang, N Jing and X Liang\
+The 42nd IEEE International Conference on Computer Design (ICCD, CCF-B)
 
 - [C2] GNeRF: Accelerating Neural Radiance Fields Inference via Adaptive Sample Gating\
 C Gu, G Li, **X Lin**, J Ling, X Liang\
-2024 IEEE International Symposium on Circuits and Systems (ISCAS)
+2024 IEEE International Symposium on Circuits and Systems (ISCAS, CCF-C)
 
 ## 2023
 
 - [C1] AdaS: A Fast and Energy-Efficient CNN Accelerator Exploiting Bit-Sparsity\
 **X Lin**, G Li, Z Liu, Y Liu, F Zhang, Z Song, N Jing, X Liang\
-2023 60th ACM/IEEE Design Automation Conference (DAC)
+2023 60th ACM/IEEE Design Automation Conference (DAC, CCF-A)
 
 
 # 🎖 Honors and Awards
