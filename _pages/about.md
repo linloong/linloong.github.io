@@ -45,7 +45,7 @@ My research interests mainly focus on AI acceleration, Domain Specific Architect
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 ## 2024
-- [C3] WIFA: A Weight Importance- and Frequency-aware Accelerator for SNN. Accepted by IEEE International Conference on Computer Design\
+- [C3] WIFA: A Weight Importance- and Frequency-aware Accelerator for SNN\
 X Zhang, Z Song, P Zhou, X Li, X Liu, **X Lin**, Z He, L Jiang, N Jing and X Liang\
 The 42nd IEEE International Conference on Computer Design (ICCD, CCF-B)
 
