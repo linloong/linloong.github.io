@@ -27,7 +27,7 @@ My research interests mainly focus on Computer Architecture, Domain Specific Arc
 
 # 🔥 News
 
-- 2024.11: Two papers are accepted by DATE 2025!
+
 
 # 📝 Publications 
 
